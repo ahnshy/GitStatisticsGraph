@@ -13,10 +13,6 @@ import LineChart from "@/components/LineChart.vue";
       <DoughnutChart />
       <br/><h2 class="title is-5">Line Chart</h2>
       <LineChart />
-
-<!--     <h2 class="title is-5">Doughnut Chart</h2>-->
-<!--      <DoughnutChart />-->
-
   </div>
 </template>
 
