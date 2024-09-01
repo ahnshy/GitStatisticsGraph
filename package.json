@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "chart.js": "^4.4.3",
+    "git-log-parser": "^1.2.1",
     "numeral": ">=2",
     "simple-git": "^3.25.0",
     "vue": "^3.4.29",
