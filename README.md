@@ -1,35 +1,62 @@
-# GitStatisticsGraph
+# 📊 Git Statistics Graph <br/>
+ A Toy project that analyzes the Git Repository's log by period and graphs its contribution.
+<br/>
+<br/>
+<br/>
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📢 [Overview]
+- By analyzing the log of the Git Repository, commit history and work performance can be extracted individually and by period.
+<br/>
 
-## Recommended IDE Setup
+## 🛠️ Stacks
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrapap-7952B3?logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white" /> <br/><br/>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚩 [Objective]
+- Managers need to evaluate employees periodically. It can be used as one of the objective evaluation data.
+- It can be used as a basis for work evaluation, performance compensation, and eviction of villains.
+<br/>
 
-## Customize configuration
+## 🛠️ [Technologies]
+- **Vue 3**: A framework that enables dynamic CSR by utilizing the Vue3 Composition API and is optimized for SPA implementation.
+- **Vite**: A very fast JavaScript build tool that is more advanced than npm.
+- **Vue Chart.js**: Technology involved in routing links and page services in vuejs.
+- **Vue Numberic**: CSS and JS framework that helps make websites easy.
+<br/>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## ⚙️ [Instructions]
 
-## Project Setup
-
-```sh
-npm install
+[run]
+```bash
+  vite or npm run dev
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+[build]
+```bash
+  vite build
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
+[preview]
+```bash
+  vite preview
 ```
+<br/>
 
-### Lint with [ESLint](https://eslint.org/)
+## 📌 [Advanced Features]
+* It analyzes git Log by period and individual.
+* Chart schematization gives you a percentage of contributions at a glance.
+* It can be used as evaluation data for performance and compensation.
+* People who work hard and suffer honestly can take care of them a little more.
+<br/>
 
-```sh
-npm run lint
-```
+## 💻 [Preview]
+* Screen Shot Preview <br/>
+>
+> [Notice]
+>
+> It is not a completed preview because it is currently being implemented.<br/>
+> Currently, only vue chart.js demos are available.<br/>
+>
+![image](https://github.com/user-attachments/assets/b0852bfd-c82c-40d8-ad1e-5f5dc3fce55c)
+<br/>
+<br/>
+<br/>
