@@ -18,9 +18,11 @@
 
 ## 🛠️ [Technologies]
 - **Vue 3**: A framework that enables dynamic CSR by utilizing the Vue3 Composition API and is optimized for SPA implementation.
+- **Simple Git**: A light weight interface for running git commands in any node.js application
+- **Tailwind CSS**: Utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
+- **Vue Chart.js**: Easy and beautiful charts with Chart.js and Vue.js.
+- **Vue Numberic**: Input field component to display a formatted currency value based on Vue.
 - **Vite**: A very fast JavaScript build tool that is more advanced than npm.
-- **Vue Chart.js**: Technology involved in routing links and page services in vuejs.
-- **Vue Numberic**: CSS and JS framework that helps make websites easy.
 <br/>
 
 ## ⚙️ [Instructions]
