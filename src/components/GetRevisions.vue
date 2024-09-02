@@ -2,7 +2,7 @@
 import { ref, watchEffect } from 'vue';
 
 const API_URL = `https://api.github.com/repos/vuejs/core/commits?per_page=3&sha=`;
-const branches = ['main', 'v3-compat'];
+const branches = ['main', 'FDA'];
 
 const currentBranch = ref(branches[0]);
 const commits = ref(null);
@@ -34,7 +34,7 @@ function formatDate(v) {
     />
     <label :for="branch">{{ branch }}</label>
   </template>
-  <p>vuejs/vue@{{ currentBranch }}</p>
+  <p>V-Ceph @{{ currentBranch }}</p>
   <ul>
     <li v-for="{ html_url, sha, author, commit } in commits" :key="sha">
       <a :href="html_url" target="_blank" class="commit">{{
