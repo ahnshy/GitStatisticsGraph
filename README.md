@@ -9,7 +9,7 @@
 <br/>
 
 ## 🛠️ Stacks
-<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white" /> <br/><br/>
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white" /> <br/><br/>
 
 ## 🚩 [Objective]
 - Managers need to evaluate employees periodically. It can be used as one of the objective evaluation data.
